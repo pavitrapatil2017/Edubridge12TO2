@@ -1,0 +1,8 @@
+git config --global user.name "abc"
+git config --global user.email "abc@gmail.com"
+git clone url
+git add ReadDataExample.java
+git status
+git commit -m "new file added"
+git status
+git push
